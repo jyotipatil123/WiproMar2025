@@ -1,0 +1,160 @@
+Project allocation
+allocating diff projects
+
+
+batch 1 
+   5 
+
+batch 2
+   5
+....
+
+terminal 
+
+>  npx create-react-app proj_name
+
+>  npm start
+
+node js ???
+express js ???
+
+React ?? install : node , npm 
+
+where ? vs code , any editor 
+
+React project :
+package.json
+package-lock.json
+
+which are the main files ?  
+app.js
+
+index.js ???
+index.html ????
+
+modules ??
+how ??
+functions......
+
+export default fun_name;
+
+import..........
+
+services React  ???
+
+create service ???
+install axios
+
+
+> create service apiservice1
+
+api.get
+
+api.fetch............
+
+components ???
+1. functional components
+        return
+ 
+2. class components
+         render()
+
+Hooks ???
+
+event ???
+onabort,onclick, onkeypress, ...............
+
+program ????  arrow functions 
+counter --increment / decrement 
+
+button click 
+
+   increment    0        decrement 
+
+props ???
+
+props.name
+props.age
+
+router ???
+routes, route, link, ...........switch......routes 
+
+React version ?? 19  
+
+visual studio 2022
+
+custom hooks ???
+
+use .....    useWipro 
+========================================================================================
+
+Mukesh
+Divyash 
+manya 
+sameer
+
+
+
+
+Output : 
+
+            React logo
+   welcome to React Js training 
+
+
+
+
+  
+                 React Logo 
+
+    welcome to phase 2 training of wipro 
+
+
+E commerce projects : 
+
+Products Category :  
+    
+1. Kitchen
+2. Interiors
+3. Furnitures
+4. Food
+5. Clothing 
+
+
+Home Page       Products Category     About Us    Contact Us 
+
+=============================================================
+
+Routers
+
+Register Form : 
+
+First name    :  text box
+Last name     :  text box
+Gender        :  radio buttons
+Qualification :  check boxes
+City          :  drop down list
+Password      :  password 
+Address       :  Textarea
+country       :  Listbox 
+
+
+submit 
+
+alert window : Registration done successfully
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
