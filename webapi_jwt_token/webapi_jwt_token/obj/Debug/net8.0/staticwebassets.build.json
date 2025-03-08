@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "c6DQQIwFStMXDzReBY0AWuvKco3fkSfPxUlBPMkuJnI=",
+  "Source": "webapi_jwt_token",
+  "BasePath": "_content/webapi_jwt_token",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
