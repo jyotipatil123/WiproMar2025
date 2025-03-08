@@ -1,0 +1,58 @@
+Day 5 discussion
+
+React hooks : 
+
+React hook functions which are used to maintain states in functional components.
+
+hook the features in react 
+
+functions that let us use state and other react features without writing class
+built in feature 
+
+1.  useState
+2.  useEffect
+3.  useContext 
+
+asp.net ===> ado.net 
+================================================
+using system.data;
+using System.Data.SqlClient;
+
+SqlConnection
+SqlDataAdapter
+SqlDataReader
+SqlCommand 
+
+Dataset--dt,data row, data column 
+==================================================
+
+asp.net core  mvc  ===> sql                        ado.net , EF, EF core 
+   model...controller....
+crud operations 
+======================================
+asp.net core  api ===> sql 
+   model...controller....
+crud operations 
+=======================================
+node with sql 
+=====================================
+react ====> asp.net core ====> sql server 
+
+.net 5
+.net 6
+.net 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

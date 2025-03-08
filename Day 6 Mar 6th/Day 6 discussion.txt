@@ -1,0 +1,72 @@
+Day 6 discussion
+
+.net core refresher
+
+asp.net core razor pages
+how to apply css
+how to apply bootstrap
+
+project struture 
+crud operations in razor pages without database
+
+==================================================================================
+asp.net core mvc 
+
+ado.net
+       lot of code ---developer
+
+EF
+  automatically 
+  approaches : 
+       code first          =====> class files ----->creating the DB
+       database first      =====> DB===> generating /creating the class files 
+       model first         =====> .dbml ===server explorer 
+
+EF core --asp.net core 
+       code first          =====> class files ----->creating the DB
+       database first      =====> DB===> generating /creating the class files 
+
+
+crud operations : 
+
+standard templates : 
+1. records --create -----------create template
+2. delete a record ----------- delete template
+3. modify a record ----------  edit template
+4. display all the records -------List template
+5. display  a particular record details -------details template
+
+Scaffolding items
+
+asp.net core mvc projects
+    ado.net  write the code (repository pattern)
+    EF core  automatically generates the code 
+================================================================
+.net 5
+     mvc    1 2 3 4 5
+
+.net 6
+     mvc core ( core 3.1), .net 6
+.net 7
+     mvc core  (core 3.1), .net 7 
+.net 8 
+     mvc core (core 3.1), .net 8 
+
+.net 1.0...........4.8 , 5 , 6 , 7, 8, 9....
+
+visual studio 2017
+visual studio 2019
+visual studio 2022(updates)
+
+
+add-migration
+update database 
+
+
+
+
+
+
+
+
+

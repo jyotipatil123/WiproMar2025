@@ -1,0 +1,77 @@
+Day 7 discussion
+
+razor pages Vs MVC 
+
+asp.net core mvc 
+
+
+Model binding in asp.net core mvc
+
+Model class
+   properties
+
+controller---methods---views 
+===============================================================
+Adding bootstrap to asp.net core mvc applciation
+Adding CSS to asp.net core mvc application 
+================================================================
+Pass the datas : 
+types : 
+1. ViewData
+2. ViewBag
+3. Tempdata 
+================================================================
+Model validation : 
+
+Example : 
+Enter name :  ....   [required]
+
+types : 
+1. Bind
+2. required
+3. Email
+4. Range
+5. DisplayName
+6. Max length..............
+===================================================================
+Tag helpers in asp.net core mvc 
+ Eg : asp-action, asp-controller..........
+
+List of students
+Details of the student 
+===================================================================
+
+Case study : 
+
+General management system
+
+create a menu : 
+
+Student                                 Product 
+
+ student details                         Product details 
+create a student                       create a product 
+delete a student                       delete a product
+display a student details              display product details
+display list of students               display list of products
+modify student details                 modify product details 
+
+apply css, bootstrap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
